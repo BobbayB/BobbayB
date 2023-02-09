@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @BobbayB
-- 👀 I’m interested in web3
-- 🌱 I’m currently learning solidity, react and javascript
-- 📫 How to reach me on twitter @bybobbay
+- 👋 Hi, I’m Bobby
+- 📫 How to reach me on twitter @bobbay_b
 
 <!---
 BobbayB/BobbayB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
